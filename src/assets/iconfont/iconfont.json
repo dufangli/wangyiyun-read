@@ -1,0 +1,37 @@
+{
+  "id": "4343831",
+  "name": "花生阅读111",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1301",
+      "name": "应用",
+      "font_class": "yingyong",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "681025",
+      "name": "书2",
+      "font_class": "shu2",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "7791022",
+      "name": "书籍",
+      "font_class": "shuji",
+      "unicode": "e7ef",
+      "unicode_decimal": 59375
+    },
+    {
+      "icon_id": "9097245",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    }
+  ]
+}
